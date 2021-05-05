@@ -4,11 +4,11 @@
 
 ## 预览例子
 
-![image](https://raw.githubusercontent.com/nowpaper/DialogueEditor/master/images/1.gif)
+![image](https://raw.githubusercontent.com/nowpaper/CreatorBundleTest/master/images/1.gif)
 
-![image](https://raw.githubusercontent.com/nowpaper/DialogueEditor/master/images/2.gif)
+![image](https://raw.githubusercontent.com/nowpaper/CreatorBundleTest/master/images/2.gif)
 
-![image](https://raw.githubusercontent.com/nowpaper/DialogueEditor/master/images/3.gif)
+![image](https://raw.githubusercontent.com/nowpaper/CreatorBundleTest/master/images/3.gif)
 
 
 ## 概述
